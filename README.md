@@ -55,4 +55,4 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
 - **X**: [Nikola](https://X.com/nikolagdnss)
 - **Email**: nikola@07718@gmail.com
 
-[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)
