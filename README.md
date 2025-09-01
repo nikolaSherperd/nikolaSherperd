@@ -55,9 +55,4 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
 - **X**: [Nikola](https://X.com/nikolagdnss)
 - **Email**: nikola@07718@gmail.com
 
-[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
-Editing nikolaSherperd/README.md at main · nikolaSherperd/nikolaSherperd
+[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
