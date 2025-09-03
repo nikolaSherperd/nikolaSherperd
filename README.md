@@ -57,8 +57,6 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
 
 ### 📫 How to Reach Me
 
-### 📫 How to Reach Me
-
 <p align="left">
   <a href="mailto:nikola07718@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
