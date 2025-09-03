@@ -57,8 +57,15 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
 
 ### 📫 How to Reach Me
 
+### 📫 How to Reach Me
 
-- **X**: [Nikola](https://X.com/nikolagdnss)
-- **Email**: nikola@07718@gmail.com
+<p align="left">
+  <a href="mailto:nikola07718@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://twitter.com/nikolagdnss" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
 [![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)
