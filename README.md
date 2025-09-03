@@ -66,4 +66,4 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
   </a>
 </p>
 
-[![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)
+![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)
