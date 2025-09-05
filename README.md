@@ -67,3 +67,18 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
 </p>
 
 ![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saber1Y&theme=dark&hide_border=false)<br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🔝 Personal Github Stats
+|![](https://github-readme-stats.vercel.app/api?username=Saber1Y&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saber1Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
