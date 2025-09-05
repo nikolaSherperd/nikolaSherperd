@@ -1,63 +1,23 @@
-### Hi there, I'm Nikola 👋
+<h1 align="center">Hi 👋, I'm Nikola</h1>
+<h3 align="center">A Machine Learning Engineer.</h3>
 
-I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about building intelligent systems and deploying models at scale. I specialize in Robotics,Embedded systems, Reinforcement Learning and Deep Learning
-
-
-### 🛠️ My Tech Stack & Skills
-
-- **Languages**: Python, SQL, C/C++, Bash
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, FastAPI
-- **Cloud & DevOps**:Docker, Kubernetes, Git/GitHub Actions
-- **Databases**: PostgreSQL.
-
-### My Tech Stack
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/200px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
+<p align="right">
+  <img alt="Coding" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0NHNzZnpjcnI3cXdwcXg4NzN0emtjdTkzZzV4a2dwdGY0c3U4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-### 📫 How to Reach Me
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=nikolaSherperd&label=Profile%20views&color=0e75b6&style=flat" alt="[YOUR_GITHUB_USERNAME]" /> 
+</p>
 
+- 🌱 I’m currently learning **Machine learning and Embedded sytems for Robotics**
+- 📫 How to reach me: **nikola07718@gmail.com**
+- 💻 Portfolio Website: **[your-portfolio-url.com]**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:nikola07718@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -66,19 +26,61 @@ I'm a Machine Learning Engineer and Robotics Enthusiaste, passionate about build
   </a>
 </p>
 
-![Nikola's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaSherperd&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p><strong>Languages:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" alt="Languages" /><br>
+</p>
+<p><strong>ML & Data Science:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,matplotlib,pandas,numpy" alt="ML & Data Science" /><br>
+</p>
+<p><strong>Cloud & DevOps:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud & DevOps" /><br>
+</p>
+<br>
 
+<h3 align="left">🤖 Robotics Software & Tools</h3>
+<p><strong>Middleware & Simulation:</strong></p>
+<p>
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ros" alt="ROS" />
+  </a>
+  <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Gazebo_logo.svg" alt="Gazebo" width="140" height="45"/>
+  </a>
+</p>
+<p><strong>Core Languages:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash" alt="Core Languages" /><br>
+</p>
+<p><strong>Key Libraries (Perception & AI):</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Libraries" /><br>
+</p>
+<p><strong>Operating Systems & Hardware Control:</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,arduino,matlab" alt="OS & Hardware" /><br>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saber1Y&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaSherperd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<br>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaSherperd&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nikolaSherperd&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+<br>
 
-## 🔝 Personal Github Stats
-|![](https://github-readme-stats.vercel.app/api?username=Saber1Y&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saber1Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+<h3 align="center">📊 Personal Github Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaSherperd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" />
+</p>
