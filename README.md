@@ -62,13 +62,19 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,arduino,matlab" alt="OS & Hardware" /><br>
 </p>
 
+<h3 align="center">📊 Personal Github Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaSherperd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaSherperd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaSherperd&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaSherperd&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaSherperd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <br>
 
@@ -78,7 +84,3 @@
 </p>
 <br>
 
-<h3 align="center">📊 Personal Github Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaSherperd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" />
-</p>
