@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola</h1>
+<h1 align="center">Hi 👋, I'm Nikola.</h1>
 <h3 align="center">An innovative Machine Learning and robotics professional with a passion for transforming theoretical concepts into practical, scalable systems. My expertise includes robotics, embedded systems, and Reinforcement/Deep Learning, focusing on the full lifecycle from system design to large scale deployment.</h3>
 
 <p align="left"> 
