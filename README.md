@@ -4,7 +4,7 @@
 
 -  I’m currently learning **Machine learning and Embedded sytems for Robotics**
 -  How to reach me: **nikola07718@gmail.com**
--  Portfolio Website: **[your-portfolio-url.com]**
+-  Portfolio Website: **[Loading...]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -79,4 +79,3 @@
 </p>
 <br>
 
-![Alt](https://repobeats.axiom.co/api/embed/c2021fabac98630248ff7fc0b6a6f15f5ba08d4c.svg "Repobeats analytics image")
