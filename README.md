@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikola.</h1>
 <h3 align="center">I am an innovative Machine Learning and robotics professional with a passion for transforming theoretical concepts into practical, scalable systems. My expertise includes robotics, embedded systems, and Reinforcement/Deep Learning, focusing on the full lifecycle from system design to large scale deployment.</h3>
 
-
--  I’m currently learning **Machine learning and Embedded sytems for Robotics**
 -  How to reach me: **nikola07718@gmail.com**
 -  Portfolio Website: **[Loading...]**
 
