@@ -1,15 +1,18 @@
-<h1 align="center" style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; letter-spacing: 0.5px; font-weight: 600;">
-  Nicholas here...
-</h1>
-
-<h3 align="center" style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; font-weight: 300; line-height: 1.6; color: #d0d0d0; letter-spacing: 0.3px;">
-  <span>
+<h3 align="center" 
+style="
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-variant: small-caps;
+  letter-spacing: 0.8px;
+  line-height: 1.7;
+  color: #d6d6d6;
+">
+  
 How do we make machines understand and act in the physical world better?
 Dive with me into the vast multi-dimensional world of the machines. </b>
 It’s about time they became (the machines) more like their creators.
-  </span>
 </h3>
-
 
 -  How to reach me: **nikola07718@gmail.com**
 -  Portfolio Website: **[Loading...]**
