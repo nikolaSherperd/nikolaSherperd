@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nikola.</h1>
+<h1 align="center">Nicholas here...</h1>
 <h3 align="center">
 
-I am an innovative Machine Learning and robotics engineer with a passion
-for transforming theoretical concepts into practical, scalable systems. 
+How do we make machines understand and act in the physical world better?
+Dive with me into the vast multi-dimensional world of the machines. </b>
+It’s about time they become (the machines) more like their creators.
 
-My expertise includes robotics,embedded systems,
-and Reinforcement/Deep Learning,focusing on the 
-full lifecycle from system design to large scale
-deployment.
 
 </h3>
 
