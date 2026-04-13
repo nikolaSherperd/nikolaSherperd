@@ -3,7 +3,7 @@
 
 How do we make machines understand and act in the physical world better?
 Dive with me into the vast multi-dimensional world of the machines. </b>
-It’s about time they become (the machines) more like their creators.
+It’s about time they became (the machines) more like their creators.
 
 
 </h3>
