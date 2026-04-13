@@ -1,11 +1,13 @@
-<h1 align="center">Nicholas here...</h1>
-<h3 align="center">
+<h1 align="center" style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; letter-spacing: 0.5px; font-weight: 600;">
+  Nicholas here...
+</h1>
 
+<h3 align="center" style="font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; font-weight: 300; line-height: 1.6; color: #d0d0d0; letter-spacing: 0.3px;">
+  <span>
 How do we make machines understand and act in the physical world better?
 Dive with me into the vast multi-dimensional world of the machines. </b>
 It’s about time they became (the machines) more like their creators.
-
-
+  </span>
 </h3>
 
 
@@ -28,60 +30,64 @@ It’s about time they became (the machines) more like their creators.
 <h3 align="left">Languages and Tools:</h3>
 <p><strong>Languages:</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" alt="Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash&theme=dark" alt="Languages" /><br>
 </p>
+
 <p><strong>ML & Data Science:</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,matplotlib,pandas,numpy" alt="ML & Data Science" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy&theme=dark" alt="ML & Data Science" /><br>
 </p>
+
 <p><strong>Cloud & DevOps:</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="Cloud & DevOps" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark" alt="Cloud & DevOps" /><br>
 </p>
+
 <br>
 
 <h3 align="left">🤖 Robotics Software & Tools</h3>
+
 <p><strong>Middleware & Simulation:</strong></p>
 <p>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ros" alt="ROS" />
-  </a>
-  <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Gazebo_logo.svg" alt="Gazebo" width="140" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="ROS" />
+  <img src="https://cdn.simpleicons.org/gazebo/FFFFFF" alt="Gazebo" width="48" height="48"/>
 </p>
+
 <p><strong>Core Languages:</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash" alt="Core Languages" /><br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,bash&theme=dark" alt="Core Languages" />
 </p>
+
 <p><strong>Key Libraries (Perception & AI):</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" alt="Libraries" /><br>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow&theme=dark" alt="Libraries" />
 </p>
+
 <p><strong>Operating Systems & Hardware Control:</strong></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,arduino,matlab" alt="OS & Hardware" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,arduino,matlab&theme=dark" alt="OS & Hardware" />
 </p>
+
+<br>
 
 <h3 align="center">📊 Personal Github Stats</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolaSherperd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" />
 </p>
 
-
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikolaSherperd&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaSherperd&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <br>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=nikolaSherperd&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
-<br>
-
